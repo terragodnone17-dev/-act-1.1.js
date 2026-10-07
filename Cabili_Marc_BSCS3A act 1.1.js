@@ -1,4 +1,4 @@
-console.log("=======================3 VAriables================================");
+console.log("=======================3 VAriables================================");//varriable
 let ha = 20;
 let ha1 = 30;
 let ha2 = 40;
@@ -13,7 +13,7 @@ const YearL = "BSCS_3A";
 //console.log("");
 
 console.log("========================3 ARRAY===============================");
-
+//array
 console.log("Array");
 
 let arrayko = [1,2,3,5];
