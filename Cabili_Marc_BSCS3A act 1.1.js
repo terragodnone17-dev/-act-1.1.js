@@ -1,4 +1,4 @@
-console.log("=======================3 VAriables================================");//varriable
+console.log("=======================3 VAriables================================");//varriables
 let ha = 20;
 let ha1 = 30;
 let ha2 = 40;
